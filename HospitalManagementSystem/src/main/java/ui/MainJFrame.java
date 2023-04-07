@@ -3107,7 +3107,6 @@ public class MainJFrame extends javax.swing.JFrame {
             validate = false;
             JOptionPane.showMessageDialog(null, "Enter Valid Phone Number");
         }
-
         if (personPwdTxt.getText().isEmpty()) {
             validate = false;
         }
